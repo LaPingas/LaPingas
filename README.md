@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+#### Current interests
+- Game design 
+- Game development
+- Competitive games
+
+#### Knowledge
+- High-level programming languages
+- Basic networking
+- Web development
+- DB management
+- Data analysis
+
 <!--
 **LaPingas/LaPingas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
